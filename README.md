@@ -22,13 +22,6 @@
   <li>💻 C# (modo console)</li>
 </ul>
 
-<h2>📚 Atualmente aprendendo</h2>
-<ul>
-  <li>📌 Lógica de programação</li>
-  <li>📌 Desenvolvimento de sistemas</li>
-  <li>📌 Boas práticas na área de TI</li>
-</ul>
-
 <h2>🎯 Objetivo</h2>
 <p>
   Meu objetivo é crescer profissionalmente na área de tecnologia, adquirir experiência prática
