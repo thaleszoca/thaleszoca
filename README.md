@@ -19,7 +19,7 @@
   <li>⚙️ Arduino</li>
   <li>☕ Java</li>
   <li>💾Banco de Dados</li>
-  <li>💻 C# (modo console)</li>
+  <li>💻 C#</li>
 </ul>
 
 <h2>🎯 Objetivo</h2>
