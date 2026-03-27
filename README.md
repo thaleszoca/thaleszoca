@@ -18,6 +18,7 @@
   <li>🎨 CSS</li>
   <li>⚙️ Arduino</li>
   <li>☕ Java</li>
+  <li>💾Banco de Dados</li>
   <li>💻 C# (modo console)</li>
 </ul>
 
