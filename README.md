@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f172a&height=120&section=header"/>
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Thales+Alessandro+da+Silva;Estagi%C3%A1rio+de+TI;T%C3%A9cnico+em+Inform%C3%A1tica;Apaixonado+por+tecnologia" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f172a&height=120&section=header"/>
-</p>
 
 <h3 align="center">💻 Estagiário de TI | 🚀 Construindo meu futuro na tecnologia</h3>
 
@@ -62,8 +62,8 @@
 
 ---
 
+<h3 align="center">🔥 Sempre evoluindo 🚀</h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f172a&height=120&section=footer"/>
 </p>
-
-<h3 align="center">🔥 Sempre evoluindo 🚀</h3>
