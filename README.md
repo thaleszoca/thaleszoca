@@ -4,9 +4,6 @@
 
 <h3 align="center">💻 Estagiário de TI | 🚀 Em evolução constante</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITANTES&color=00f7ff&style=for-the-badge"/>
-</p>
 
 ---
 
